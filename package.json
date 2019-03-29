@@ -1,0 +1,13 @@
+{
+  "name": "Produtos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "global": "^4.3.2",
+    "mysql2": "^1.6.5",
+    "pg": "^7.9.0",
+    "sequelize": "^5.2.3"
+  }
+}
